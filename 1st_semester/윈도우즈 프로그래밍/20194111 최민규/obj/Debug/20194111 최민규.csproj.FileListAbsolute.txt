@@ -1,0 +1,19 @@
+C:\Users\최민규\source\repos\20194111 최민규\20194111 최민규\bin\Debug\20194111 최민규.exe.config
+C:\Users\최민규\source\repos\20194111 최민규\20194111 최민규\bin\Debug\20194111 최민규.exe
+C:\Users\최민규\source\repos\20194111 최민규\20194111 최민규\bin\Debug\20194111 최민규.pdb
+C:\Users\최민규\source\repos\20194111 최민규\20194111 최민규\obj\Debug\20194111 최민규.csprojAssemblyReference.cache
+C:\Users\최민규\source\repos\20194111 최민규\20194111 최민규\obj\Debug\_20194111_최민규.login.resources
+C:\Users\최민규\source\repos\20194111 최민규\20194111 최민규\obj\Debug\_20194111_최민규.main.resources
+C:\Users\최민규\source\repos\20194111 최민규\20194111 최민규\obj\Debug\_20194111_최민규.Properties.Resources.resources
+C:\Users\최민규\source\repos\20194111 최민규\20194111 최민규\obj\Debug\20194111 최민규.csproj.GenerateResource.cache
+C:\Users\최민규\source\repos\20194111 최민규\20194111 최민규\obj\Debug\20194111 최민규.csproj.CoreCompileInputs.cache
+C:\Users\최민규\source\repos\20194111 최민규\20194111 최민규\obj\Debug\20194111 최민규.exe
+C:\Users\최민규\source\repos\20194111 최민규\20194111 최민규\obj\Debug\20194111 최민규.pdb
+C:\Users\최민규\source\repos\20194111 최민규\20194111 최민규\obj\Debug\_20194111_최민규.ticket.resources
+C:\Users\최민규\source\repos\20194111 최민규\20194111 최민규\obj\Debug\_20194111_최민규.join.resources
+C:\Users\최민규\source\repos\20194111 최민규\20194111 최민규\obj\Debug\_20194111_최민규.seats.resources
+C:\Users\최민규\source\repos\20194111 최민규\20194111 최민규\obj\Debug\_20194111_최민규.payticket.resources
+C:\Users\최민규\source\repos\20194111 최민규\20194111 최민규\obj\Debug\_20194111_최민규.reservation.resources
+C:\Users\최민규\source\repos\20194111 최민규\20194111 최민규\obj\Debug\_20194111_최민규.snack.resources
+C:\Users\최민규\source\repos\20194111 최민규\20194111 최민규\obj\Debug\_20194111_최민규.detail.resources
+C:\Users\최민규\source\repos\20194111 최민규\20194111 최민규\obj\Debug\_20194111_최민규.masterMenu.resources
